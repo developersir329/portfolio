@@ -30,7 +30,7 @@ function Home() {
           <Cursor/>
           </h2>
       <p>I build responsive, interactive web applications using <span>React</span>, <span>JavaScript</span>, and <span>modern CSS</span>. I enjoy turning <span>UI designs into clean</span> , functional interfaces. Currently learning backend development with the MERN stack to become a full-stack developer.</p>
-      <button><a href="">Download CV</a></button>
+      <button><a href="https://manjeetsharma-internshalaresume-6.tiiny.site/">Download CV</a></button>
        </div>
     </div>
   )
