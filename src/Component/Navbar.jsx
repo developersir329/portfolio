@@ -9,7 +9,7 @@ function Navbar() {
         </div>
         <div className='menu'>
          <NavLink to="/">Home</NavLink>
-        <NavLink to="/Eduction">Eduction</NavLink>
+        <NavLink to="/Eduction">Education</NavLink>
         <NavLink to="/Skills">Skills</NavLink>
         <NavLink to="/Project">Project</NavLink>
         <NavLink to="/Social">Social Media</NavLink>
