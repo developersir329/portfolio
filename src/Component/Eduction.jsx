@@ -12,7 +12,7 @@ function Eduction() {
         <div className='heigh-school'data-aos="zoom-in" data-aos-duration="1000">
         <h1>Btech: <span className='psn'>Computer Science Engineering</span></h1>
         <h1>College: <span className='psn'>Lucknow Institute of Technology(Aktu)</span></h1>
-        <h1>Passed: <span className='psn'>parsuing</span></h1>
+        <h1>Passed: <span className='psn'>pursuing</span></h1>
         </div>
     </div>
   )

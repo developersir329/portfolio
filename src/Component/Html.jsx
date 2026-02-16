@@ -21,12 +21,12 @@ function Html() {
         </div>
         <div className='html-box'data-aos="zoom-in-down" data-aos-duration="1000">
             <img src={qub} alt="" />
-            <h1>Animated <span className='ls'>qub</span> <span>Page</span></h1>
+            <h1>Animated <span className='ls'>Cube</span> <span>Page</span></h1>
             <a className='abtn' href="https://developersir329.github.io/Scroll-Bar/">Watch Demo</a>
         </div>
          <div className='html-box Amazon'data-aos="zoom-in-down" data-aos-duration="1000">
             <img src={Amazon} alt="" />
-            <h1><span className='ls'>Amazon</span> <span>Colne</span></h1>
+            <h1><span className='ls'>Amazon</span> <span>Clone</span></h1>
             <a className='abtn' href="https://developersir329.github.io/Amazon-Clone/">Watch Demo</a>
         </div>
          <div className='html-box'data-aos="zoom-in-down" data-aos-duration="1000">

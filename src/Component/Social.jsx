@@ -7,11 +7,11 @@ function Social() {
   return (
     <div className='skills-container'>
       <div className='insta-box'data-aos="flip-right" data-aos-duration="1000">
-        <h1>instagram</h1>
+        <h1>Instagram</h1>
         <a href="https://www.instagram.com/manjeetsharma7302?igsh=MW9ncjA2b3VjMjVocQ=="><img src={insta} alt="" /></a>
       </div>
       <div className='insta-box'data-aos="flip-right" data-aos-duration="1000">
-        <h1>Fecbook</h1>
+        <h1>Facebook</h1>
         <a href="https://www.facebook.com/share/1DdXbvB46Y/"><img src={fb} alt="" /></a>
       </div>
       <div className='insta-box'data-aos="flip-right" data-aos-duration="1000">

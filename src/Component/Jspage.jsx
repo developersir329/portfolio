@@ -11,7 +11,7 @@ function Jspage() {
     <div className='main'>
     <div className='html-box'data-aos="zoom-in-down" data-aos-duration="1000">
                 <img src={ps} alt="" />
-                <h1><span className='ls'>Password</span> <span>Gerator</span></h1>
+                <h1><span className='ls'>Password</span> <span>Generator</span></h1>
                 <a className='abtn' href="https://developersir329.github.io/Random-password-genarator/">Watch Demo</a>
             </div>
             <div className='html-box'data-aos="zoom-in-down" data-aos-duration="1000">
@@ -37,7 +37,7 @@ function Jspage() {
             </div>
              <div className='html-box'data-aos="zoom-in-down" data-aos-duration="1000">
                 <img src={cuntrydata} alt="" />
-                <h1>Cuntry<span className='ls'>Feching</span></h1>
+                <h1>Country<span className='ls'>Fetching</span></h1>
                 <a className='abtn' href="https://developersir329.github.io/cuntry-data-feching/">Watch Demo</a>
             </div>
     </div>

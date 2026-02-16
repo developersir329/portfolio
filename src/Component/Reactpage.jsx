@@ -9,7 +9,7 @@ function Reactpage() {
      <div className='main'>
         <div className='html-box'data-aos="zoom-in-down" data-aos-duration="1000">
                     <img src={Student} alt="" />
-                    <h1>Students<span className='ls'>Attendents</span> <span>UI</span></h1>
+                    <h1>Students<span className='ls'>Attendance</span> <span>UI</span></h1>
                     <a className='abtn' href="https://student-attendance-fgag.vercel.app/">Watch Demo</a>
                 </div>
                 <div className='html-box'data-aos="zoom-in-down" data-aos-duration="1000">
@@ -26,7 +26,7 @@ function Reactpage() {
                 <div className='html-box rt-box'data-aos="zoom-in-down" data-aos-duration="1000">
                     <img src={DalayTask}
                      alt="" />
-                    <h1>Add<span className='ls'>Dalay</span><span>Task</span></h1>
+                    <h1>Add<span className='ls'>Daily</span><span>Task</span></h1>
                     <a className='abtn' href="https://add-dalay-task.vercel.app/">Watch Demo</a>
                 </div>
                  <div className='html-box js-box'data-aos="zoom-in-down" data-aos-duration="1000">
@@ -36,7 +36,7 @@ function Reactpage() {
                 </div>
                  <div className='html-box'data-aos="zoom-in-down" data-aos-duration="1000">
                     <img src="" alt="" />
-                    <h1>Cuntry<span className='ls'>Feching</span></h1>
+                    <h1>Country<span className='ls'>Feching</span></h1>
                     <a className='abtn' href="https://developersir329.github.io/cuntry-data-feching/">Watch Demo</a>
                 </div>
         </div>
